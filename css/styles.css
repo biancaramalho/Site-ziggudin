@@ -1,13 +1,13 @@
 /* Cores do background */
 body {
-    background-color: #070707;
+    background-color: #070707 !important;
     /* Cor de fundo principal */
 }
 
 /* Navbar e Footer com fundo preto */
 .navbar,
 footer {
-    background-color: #000000;
+    background-color: #000;
 }
 
 /* Ajuste do logo */
