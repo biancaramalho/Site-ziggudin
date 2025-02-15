@@ -9,3 +9,14 @@
 body{
     background-color: #070707 !important;
 }
+
+.hero-title{
+    font-family: super squad;
+    font-size: 64px;
+    color: #FFFFFF;
+}
+
+.y{
+    font-family: video games;
+    font-size: larger;
+}
