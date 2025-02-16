@@ -113,5 +113,26 @@ body{
     padding: 10px;
 }
 
+.btn-footer{
+    text-decoration: none;
+    color:#FFFFFF;
+}
+
+.social-icons {
+    display: flex;
+    justify-content: center;
+    gap: 15px;
+}
+
+.social-icons a {
+    color: #fff;
+    font-size: 24px;
+    transition: color 0.3s;
+}
+
+.social-icons a:hover {
+    color: #FF4D36;
+}
+
 
 
